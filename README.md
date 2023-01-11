@@ -11,6 +11,7 @@
     <a href="https://www.instagram.com/code.shubh" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+    <br>
      <a href="https://shubhsharma19.hashnode.dev" target="_blank">
       <img src="https://img.shields.io/badge/hashnode-royalblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
     </a>
