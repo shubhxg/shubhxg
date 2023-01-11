@@ -15,8 +15,8 @@
      <a href="https://shubhsharma19.hashnode.dev" target="_blank">
       <img src="https://img.shields.io/badge/hashnode-royalblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
     </a>
-    <a href="https://www.buymeacoffee.com/shubhsharma19" target="_blank">
-      <img src="https://img.shields.io/badge/BuyMeACoffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buymeacoffee Badge"/>
+    <a href="https://ko-fi.com/shubhsharma19" target="_blank">
+      <img src="https://img.shields.io/badge/BuyMeACoffee-orange?style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Ko-fi Badge"/>
     </a>
   </div>
   
