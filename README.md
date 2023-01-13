@@ -39,7 +39,7 @@
   I am BCA Graduate and Open Source Advocate🥑
  
 - 💻 Learning and Sharing in Public through <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Blogs </a> and <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
-- 🌱 Exploring Fullstack Web2, Web3. 
+- 🌱 Exploring Fullstack Web2, Web3
 
 - ⚡ Helping people get into tech <a href="https://instagram.com" target="_blank">(Instagram)</a>
   
