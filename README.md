@@ -38,11 +38,10 @@
 ### :man_technologist: About Me :
   I am BCA Graduate and Open Source Advocate🥑
  
-- 💻 Learning and Sharing in Public through Blogs and Threads [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-royalblue?style=flat&logo=Hashnode&logoColor=white)](https://shubhsharma19.hashnode.dev)   [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Hashnode&logoColor=white)](https://twitter.com/code_shubh)
-
+- 💻 Learning and Sharing in Public through <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Blogs </a> and <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
 - 🌱 Exploring Fullstack Web2, Web3. 
 
-- ⚡ In my free time, I design content for Instagram page and Read tech articles [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Hashnode&logoColor=white)](https://instagram.com/code.shubh)
+- ⚡ Helping people get into tech <a href="https://instagram.com" target="_blank">(Instagram)</a>
   
 - 🛠️ Interested in DevOps and DevRel
 ---
