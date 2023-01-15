@@ -41,7 +41,7 @@
 - 💻 Learning and Sharing in Public through <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Blogs </a> and <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
 - 🌱 Exploring Fullstack Web2, Web3
 
-- ⚡ Helping people get into tech <a href="https://instagram.com" target="_blank">(Instagram)</a>
+- ⚡ Helping people get into tech via Educational Content <a href="https://instagram.com" target="_blank">(Instagram)</a>
   
 - 🛠️ Interested in DevOps and DevRel
 ---
@@ -51,9 +51,5 @@
   <b>Java | C++ | HTML | CSS3 | Git | GitHub | VSCode | Linux | Figma </b>
 </div>
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhsharma19&theme=dark&background=000000)](https://git.io/streak-stats)
   
 
