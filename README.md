@@ -34,8 +34,7 @@
 </div>
 
 <div id= "About me" align="left">
-  <a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/e150da2c5e5c47c1bdb43ff82fd7c5c9.png?r=mc2" align="right" width="300" alt="Shubh Sharma's Dev Card"/></a>
-   
+   <a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/e150da2c5e5c47c1bdb43ff82fd7c5c9.png?r=mc2" align="right" width="250" alt="Shubh Sharma's Dev Card"/></a>
 ### :man_technologist: About Me :
   I am BCA Graduate and Open Source Advocate🥑
  
@@ -57,7 +56,7 @@
   ---
 </div>
 <div id="holopins-hacktoberfest">
-  <img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/Holopins.png" alt="hacktoberfest-holopins">
+  <img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/Holopins.png" alt="hacktoberfest-holopins" height="300" width="1100">
 </div>
   
 
