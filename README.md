@@ -42,7 +42,7 @@
   
 - 🌱 Exploring Fullstack Web2, Web3
   
-- 📝 I write Technical Articles on <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Hashnode </a> and <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Dev.to </a> 
+- 📝 I write Technical Articles on <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Hashnode </a> and <a href="https://dev.to/shubhsharma19" target="_blank"> Dev.to </a> 
 
 - ⚡ Helping people get into tech via Educational Content <a href="https://instagram.com" target="_blank">(Instagram)</a>
   
