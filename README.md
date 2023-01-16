@@ -38,8 +38,11 @@
 ### :man_technologist: About Me :
   I am BCA Graduate and Open Source Advocate🥑
  
-- 💻 Learning and Sharing in Public through <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Blogs </a> and <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
+- 💻 Learning and Sharing in Public through <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
+  
 - 🌱 Exploring Fullstack Web2, Web3
+  
+- 📝 I write Technical Articles on <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Hashnode </a> and <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Dev.to </a> 
 
 - ⚡ Helping people get into tech via Educational Content <a href="https://instagram.com" target="_blank">(Instagram)</a>
   
