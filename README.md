@@ -33,7 +33,8 @@
   ---
 </div>
 
-<div id= "Intro" align="left">
+<div id= "About me" align="left">
+  <a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/e150da2c5e5c47c1bdb43ff82fd7c5c9.png?r=ovz" width="300" align="right" alt="Shubh Sharma's Dev Card"/></a>
    
 ### :man_technologist: About Me :
   I am BCA Graduate and Open Source Advocate🥑
@@ -52,6 +53,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div id="language-and-tools">
   <b>Java | C++ | HTML | CSS3 | Git | GitHub | VSCode | Linux | Figma </b>
+  
+  ---
 </div>
 
   
