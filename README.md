@@ -35,7 +35,7 @@
 
 <div id= "About me" align="left">
   
-   <a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/e150da2c5e5c47c1bdb43ff82fd7c5c9.png?r=5lt" align="right" width="250" alt="Shubh Sharma's Dev Card"/></a>
+   <a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/e150da2c5e5c47c1bdb43ff82fd7c5c9.png?r=5lt" align="right" width="200" alt="Shubh Sharma's Dev Card"/></a>
   
 ### :man_technologist: About Me :
   I am BCA Graduate and Open Source Advocate🥑
