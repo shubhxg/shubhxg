@@ -57,8 +57,5 @@
   
   ---
 </div>
-<div id="holopins-hacktoberfest">
-  <img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/Holopins.png" alt="hacktoberfest-holopins" height="300" width="1100">
-</div>
   
 
