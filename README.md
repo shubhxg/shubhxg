@@ -38,7 +38,7 @@
    <a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/e150da2c5e5c47c1bdb43ff82fd7c5c9.png?r=5lt" align="right" width="180" alt="Shubh Sharma's Dev Card"/></a>
   
 ### :man_technologist: About Me :
-- 💻 BCA Graduate who is passionate about Open Source and Communities.
+- 💻 BCA Graduate who is passionate about Open Source and Community work.
  
 - 📚 Learning and Sharing in Public through <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
   
