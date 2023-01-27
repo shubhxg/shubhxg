@@ -33,20 +33,20 @@
   ---
 </div>
 
-<div id= "About me" align="left">
+<div id= "About me">
   
    <a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/e150da2c5e5c47c1bdb43ff82fd7c5c9.png?r=5lt" align="right" width="180" alt="Shubh Sharma's Dev Card"/></a>
   
 ### :man_technologist: About Me :
-  I am BCA Graduate and Open Source Advocate🥑
+- 💻 BCA Graduate who is passionate about Open Source and Communities.
  
-- 💻 Learning and Sharing in Public through <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
+- 📚 Learning and Sharing in Public through <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
   
-- 🌱 Exploring Fullstack Web2, Web3
+- 🌱 Exploring Fullstack web development
   
-- 📝 I write Technical Articles on <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Hashnode </a> and <a href="https://dev.to/shubhsharma19" target="_blank"> Dev.to </a> 
+- 📝 I write Technical Blogs on <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Hashnode </a> and <a href="https://dev.to/shubhsharma19" target="_blank"> Dev.to </a> 
 
-- ⚡ Helping people get into tech via Educational Content <a href="https://instagram.com" target="_blank">(Instagram)</a>
+- ⚡ Helping people get into tech via Programming Content <a href="https://instagram.com" target="_blank">(Instagram)</a>
   
 - 🛠️ Interested in DevOps and DevRel
 ---
