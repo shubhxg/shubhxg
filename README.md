@@ -28,7 +28,7 @@
 </div>
 
 <div id="Bannergif" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" width="400" height="200"/>
   
   ---
 </div>
