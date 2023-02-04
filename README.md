@@ -37,17 +37,17 @@
   <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/devcard.svg" width="300" align="right" alt="Shubh Sharma's Dev Card"/></a>
   
 ### :man_technologist: About Me :
-- 💻 BCA Graduate who is passionate about Open Source and Community work.
+- 💻 BCA Graduate passionate about Open Source and Community work.
  
 - 📚 Learning and Sharing in Public through <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
   
-- 🌱 Exploring Fullstack web development
+- 🌱 Exploring Fullstack web development and Web3
   
 - 📝 I write Technical Blogs on <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Hashnode </a> and <a href="https://dev.to/shubhsharma19" target="_blank"> Dev.to </a> 
 
 - ⚡ Helping people get into tech via Programming Content <a href="https://instagram.com" target="_blank">(Instagram)</a>
   
-- 🛠️ Interested in DevOps and DevRel
+- 🛠️ A DevOps and DevRel Enthusiast 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
