@@ -28,13 +28,13 @@
 </div>
 
 <div id="Bannergif" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="250"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70%"/>
   
   ---
 </div>
 
 <div id= "About me">
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/devcard.svg" width="300" align="right" alt="Shubh Sharma's Dev Card"/></a>
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/devcard.svg" width="70%" align="right" alt="Shubh Sharma's Dev Card"/></a>
   
 ### :man_technologist: About Me :
 - 💻 BCA Graduate passionate about Open Source and Community work.
