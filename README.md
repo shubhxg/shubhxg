@@ -11,7 +11,7 @@
 
 <div id= "About me">
   <a href="https://app.daily.dev/shubhsharma19"><img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/devcard.svg" width="250" align="right" alt="Shubh Sharma's Dev Card"/></a>
-  <p align="left"> <a href="https://twitter.com/code_shubh" target="blank"><img src="https://img.shields.io/twitter/follow/code_shubh?logo=twitter&style=for-the-badge" alt="code_shubh" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/code_shubh" target="_blank" ><img src="https://img.shields.io/twitter/follow/code_shubh?logo=twitter&style=for-the-badge" alt="code_shubh" /></a> </p>
   <div> 
     <img src="https://komarev.com/ghpvc/?username=shubhsharma19&style=flat-square&color=blue" alt=""/>
   </div>
