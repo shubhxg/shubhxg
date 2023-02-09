@@ -20,20 +20,14 @@
     </a>
   </div>
   
-  <div> 
-    <img src="https://komarev.com/ghpvc/?username=shubhsharma19&style=flat-square&color=blue" alt=""/>
-  </div>
-  
   <h1 align="center"> नमस्ते (Hello), <br>I am Shubh Sharma<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 </div>
 
-<div id="Bannergif" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70%"/>
-  
-  ---
-</div>
-
 <div id= "About me">
+  <p align="left"> <a href="https://twitter.com/code_shubh" target="blank"><img src="https://img.shields.io/twitter/follow/code_shubh?logo=twitter&style=for-the-badge" alt="code_shubh" /></a> </p>
+  <div> 
+    <img src="https://komarev.com/ghpvc/?username=shubhsharma19&style=flat-square&color=blue" alt=""/>
+  </div>
   <a href="https://app.daily.dev/shubhsharma19"><img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/devcard.svg" width="200" align="right" alt="Shubh Sharma's Dev Card"/></a>
   
 ### :man_technologist: About Me :
