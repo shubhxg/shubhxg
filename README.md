@@ -30,7 +30,7 @@
 - 🛠️ A DevOps and DevRel Enthusiast 
 ---
 
-### 📄 My articles
+### 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Beginner&#39;s Guide to Devrel](https://shubhsharma19.hashnode.dev/beginners-guide-to-devrel)
 - [Unlock Your Potential with Tech Communities](https://shubhsharma19.hashnode.dev/unlock-your-potential-with-tech-communities)
