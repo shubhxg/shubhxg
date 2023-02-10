@@ -16,4 +16,4 @@ jobs:
           # Your RSS feed url
           feed_list: "https://shubhsharma19.hashnode.dev/rss.xml"
           # Maximum number of posts you want
-          max_post_count: 3
+          max_post_count: 5
