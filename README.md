@@ -13,10 +13,10 @@
   <a href="https://app.daily.dev/shubhsharma19"><img src="https://github.com/shubhsharma19/shubhsharma19/blob/main/devcard.svg" width="250" align="right" alt="Shubh Sharma's Dev Card"/></a>
   <p align="left"> <a href="https://twitter.com/code_shubh" target="_blank" ><img src="https://img.shields.io/twitter/follow/code_shubh?logo=twitter&style=for-the-badge" alt="code_shubh" /></a> </p>
   <div> 
-    <img src="https://komarev.com/ghpvc/?username=shubhsharma19&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=shubhsharma19&style=flat-square&color=blue" alt=""/>
   </div>
   
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 - 💻 BCA Graduate passionate about Open Source and Community work.
  
 - 📚 Learning and Sharing in Public through <a href="https://twitter.com/code_shubh" target="_blank">Threads</a>
@@ -41,7 +41,7 @@
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠 Languages and Tools
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.discordapp.com/attachments/1071128401433333783/1074954644603801710/image_3.png" alt="bash" width="40" height="40"/> 
@@ -83,7 +83,8 @@
 
 ---
 
-[![Shubh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhsharma19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Shubh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhsharma19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
 ---
 
