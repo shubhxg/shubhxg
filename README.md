@@ -22,9 +22,9 @@
   
 - 🌱 Exploring Fullstack web development and Web3
   
-- 📝 I write Technical Blogs on <a href="https://shubhsharma19.hashnode.dev" target="_blank"> Hashnode </a> and <a href="https://dev.to/shubhsharma19" target="_blank"> Dev.to </a> 
+- 📝 Technical Writer
 
-- ⚡ Helping people get into tech via Programming Content <a href="https://instagram.com" target="_blank">(Instagram)</a>
+- ⚡ Helping people get into tech via Programming Content on <a href="https://instagram.com" target="_blank">Instagram</a>
   
 - 🛠️ A DevOps and DevRel Enthusiast 
 ---
