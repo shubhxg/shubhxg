@@ -29,5 +29,5 @@
 - [My First Contribution to Open Source](https://shubhsharma19.hashnode.dev/my-first-contribution-to-open-source)
 <!-- BLOG-POST-LIST:END -->
   
-## 📈 Graph
+## 📈 Contribution Graph
   [![Shubh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhsharma19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
