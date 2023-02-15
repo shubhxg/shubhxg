@@ -2,6 +2,8 @@
 
 - <b> I'm Shubh (he/him),</b> BCA Graduate and aspiring DevRel.
 
+- Working on multiple <b>open-source</b> projects.
+
 - Exploring <b>fullstack development, web3 and devops</b>. 
   
 - Learning and sharing my progress in public on <a href="https://twitter.com/shubhsharma19">twitter.</a>
