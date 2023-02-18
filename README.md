@@ -12,6 +12,8 @@
 
 - Technical writer sharing my insights and knowledge on <a href="htts://shubhsharma19.hashnode.dev"> hashnode. </a> 
 
+- Experienced in Graphic Designing and User Experience.
+
 - Continuously learning and engaging with the tech community.
 
 <!-- My Skills -->
