@@ -33,11 +33,11 @@
 <!-- My blogs -->
 ## 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Basics of Cloud Computing](https://shubhsharma19.hashnode.dev/basics-of-cloud)
 - [Beginner&#39;s Guide to Devrel](https://shubhsharma19.hashnode.dev/beginners-guide-to-devrel)
 - [Unlock Your Potential with Tech Communities](https://shubhsharma19.hashnode.dev/unlock-your-potential-with-tech-communities)
 - [Open Source Guide for Beginners](https://shubhsharma19.hashnode.dev/open-source-for-beginners)
 - [All about Open Source](https://shubhsharma19.hashnode.dev/all-about-open-source)
-- [My First Contribution to Open Source](https://shubhsharma19.hashnode.dev/my-first-contribution-to-open-source)
 <!-- BLOG-POST-LIST:END -->
   
 <!-- Contribution Graph -->
