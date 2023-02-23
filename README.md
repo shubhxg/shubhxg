@@ -6,7 +6,7 @@
 
 - Contributing to multiple <b>open-source</b> projects.
 
-- Exploring <b>fullstack development, web3 and devops</b>. 
+- Exploring <b>full-stack web development, web3 and devops</b>. 
   
 - Learning and sharing my progress in public on <a href="https://twitter.com/shubhsharma19">twitter.</a>
 
