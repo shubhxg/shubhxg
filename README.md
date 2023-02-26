@@ -39,7 +39,3 @@
 - [Open Source Guide for Beginners](https://shubhsharma19.hashnode.dev/open-source-for-beginners)
 - [All about Open Source](https://shubhsharma19.hashnode.dev/all-about-open-source)
 <!-- BLOG-POST-LIST:END -->
-  
-<!-- Contribution Graph -->
-## 📈 Contribution Graph
-  [![Shubh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubhsharma19&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
