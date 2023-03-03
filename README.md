@@ -2,15 +2,15 @@
 <h1>🙋‍♂️ Hey there! </h1>
 
 <!-- Introduction -->
-- <b> I'm Shubh (he/him),</b> BCA Graduate and aspiring DevRel.
+- <b> I'm Shubh (he/him),</b> BCA Graduate and Open Source Advocate
 
 - Contributing to multiple <b>open-source</b> projects.
 
-- Exploring <b>full-stack web development, web3 and devops</b>. 
+- Learning <b>full-stack web development</b>. 
   
 - Learning and sharing my progress in public on <a href="https://twitter.com/shubhsharma19">twitter.</a>
 
-- Technical writer sharing my insights and knowledge on <a href="htts://shubhsharma19.hashnode.dev"> hashnode. </a> 
+- Technical Writer/Blogger
 
 - Experienced in Graphic Designing and User Experience.
 
