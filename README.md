@@ -8,7 +8,7 @@
 
 - Learning <b>full-stack web development</b>. 
   
-- Learning and sharing my progress in public on <a href="https://twitter.com/shubhsharma19">twitter.</a>
+- Learning and sharing my progress in public on twitter.</a>
 
 - Technical Writer/Blogger
 
