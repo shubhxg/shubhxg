@@ -32,9 +32,9 @@
 <!-- My blogs -->
 ## 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Beginner&#39;s Guide to Linux](https://shubhsharma19.hashnode.dev/beginners-guide-to-linux)
 - [My Experience with Linux OS](https://shubhsharma19.hashnode.dev/my-experience-with-linux)
 - [The Road to Burnout Recovery](https://shubhsharma19.hashnode.dev/burnout-recovery)
 - [Advanced Cloud Concepts](https://shubhsharma19.hashnode.dev/advanced-cloud-concepts)
 - [Basics of Cloud Computing](https://shubhsharma19.hashnode.dev/basics-of-cloud)
-- [Beginner&#39;s Guide to Devrel](https://shubhsharma19.hashnode.dev/beginners-guide-to-devrel)
 <!-- BLOG-POST-LIST:END -->
