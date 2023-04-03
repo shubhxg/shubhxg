@@ -4,7 +4,7 @@
 <!-- Introduction -->
 - <b> I'm Shubh (he/him),</b> BCA Graduate and Open Source Advocate
 
-- Contributing to multiple <b>open-source</b> projects.
+- Contributing to <b>open-source</b> projects.
 
 - Learning <b>full-stack web development</b>. 
   
