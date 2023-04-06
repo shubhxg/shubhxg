@@ -2,18 +2,11 @@
 <h1>🙋‍♂️ Hey there! </h1>
 
 <!-- Introduction -->
-- <b> I'm Shubh (he/him),</b> BCA Graduate and Open Source Advocate
-
-- Contributing to <b>open-source</b> projects.
-
+- <b> I'm Shubh (he/him),</b> I am a BCA Graduate advocating for Open Source
 - Learning <b>full-stack web development</b>. 
-  
 - Learning and sharing my progress in public on twitter.</a>
-
 - Technical Writer/Blogger
-
 - Experienced in Graphic Designing and User Experience.
-
 - Continuously learning and engaging with the tech community.
 
 <!-- My Skills -->
