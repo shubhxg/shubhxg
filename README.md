@@ -25,9 +25,9 @@
 <!-- My blogs -->
 ## 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [AI Tools to help you with daily work](https://shubhsharma19.hashnode.dev/ai-tools-to-help-you-with-daily-work)
 - [I used AI to improve the SEO of my Articles](https://shubhsharma19.hashnode.dev/i-used-ai-to-improve-the-seo-of-my-articles)
 - [Beginner&#39;s Guide to Linux](https://shubhsharma19.hashnode.dev/beginners-guide-to-linux)
 - [My Experience with Linux OS](https://shubhsharma19.hashnode.dev/my-experience-with-linux)
 - [The Road to Burnout Recovery](https://shubhsharma19.hashnode.dev/burnout-recovery)
-- [Advanced Cloud Concepts](https://shubhsharma19.hashnode.dev/advanced-cloud-concepts)
 <!-- BLOG-POST-LIST:END -->
