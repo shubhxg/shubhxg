@@ -20,7 +20,7 @@
   
 <!-- Github Stats needs to be fixed-->
 ![Shubh's Stats](https://raw.githubusercontent.com/shubhsharma19/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-!![Shubh's Stats 2](https://raw.githubusercontent.com/shubhsharma19/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Shubh's Stats](https://raw.githubusercontent.com/shubhsharma19/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   
 <!-- My blogs -->
 ## 📕 My Latest Blogs
