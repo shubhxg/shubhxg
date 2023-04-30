@@ -25,9 +25,9 @@
 <!-- My blogs -->
 ## 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [My Tech Journey So Far &lpar;25% 2023&rpar;](https://shubhsharma19.hashnode.dev/my-tech-journey-so-far)
 - [Linux File Structure Explained](https://shubhsharma19.hashnode.dev/linux-file-structure-explained)
 - [AI Tools to help you with daily work](https://shubhsharma19.hashnode.dev/ai-tools-to-help-you-with-daily-work)
 - [I used AI to improve the SEO of my Articles](https://shubhsharma19.hashnode.dev/i-used-ai-to-improve-the-seo-of-my-articles)
 - [Beginner&#39;s Guide to Linux](https://shubhsharma19.hashnode.dev/beginners-guide-to-linux)
-- [My Experience with Linux OS](https://shubhsharma19.hashnode.dev/my-experience-with-linux)
 <!-- BLOG-POST-LIST:END -->
