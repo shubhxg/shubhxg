@@ -1,7 +1,7 @@
 <!-- This is Header -->
 <h1>🙋‍♂️ Hey there! </h1>
 
-<img width="300px" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+<img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 <!-- Introduction -->
 - <b> I'm Shubh (he/him),</b> I am a BCA Graduate advocating for Open Source
