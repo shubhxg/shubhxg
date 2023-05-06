@@ -16,8 +16,6 @@
 
 <!-- Socials stats -->
 <a href="https://twitter.com/shubhstwt"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
-<a href="https://instagram.com/code.shubh"><img src="https://img.shields.io/badge/Tech%20content%20on-Instagram-red?style=flat&logo=instagram">
-<a href="https://open.spotify.com/artist/3DTV2Uxe6UzIUB1BBufIks?si=pGrzdhvQRi6llLeVjLQutQ"><img src="https://img.shields.io/badge/checkout-my%20music-brightgreen?style=flat&logo=spotify">
 <a href="https://ko-fi.com/shubhsharma19"><img src="https://img.shields.io/badge/buy%20me%20a-coffee-orange?style=flat&logo=ko-fi">
   
 ![Shubh's Stats](https://raw.githubusercontent.com/shubhsharma19/github-stats/master/generated/overview.svg#gh-dark-mode-only)
