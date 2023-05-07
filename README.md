@@ -12,7 +12,7 @@
 - Continuously learning and engaging with the tech community.
 
 <!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,bash,html,css,github,git,githubactions,figma,linux,netlify,vim,vscode,xd&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,github,java,js,bash,git,githubactions,figma,linux,netlify,vim,vscode,xd&perline=8)](https://skillicons.dev)
 
 <!-- Socials stats -->
 <a href="https://twitter.com/shubhstwt"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
