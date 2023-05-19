@@ -15,7 +15,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,github,java,js,bash,git,githubactions,figma,linux,netlify,vim,vscode,xd&perline=8)](https://skillicons.dev)
 
 <!-- Socials stats -->
-<a href="https://twitter.com/shubhstwt"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
+<a href="https://twitter.com/shubhstwt"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter"> [![follow me on LinkedIn](https://img.shields.io/badge/follow%20me%20on-linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhsharma19/)
+  
 <a href="https://ko-fi.com/shubhsharma19"><img src="https://img.shields.io/badge/buy%20me%20a-coffee-orange?style=flat&logo=ko-fi">
   
 ![Shubh's Stats](https://raw.githubusercontent.com/shubhsharma19/github-stats/master/generated/overview.svg#gh-dark-mode-only)
