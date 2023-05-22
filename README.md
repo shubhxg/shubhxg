@@ -15,12 +15,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,github,java,js,bash,git,githubactions,figma,linux,netlify,vim,vscode,xd&perline=8)](https://skillicons.dev)
 
 <!-- Socials stats -->
-<a href="https://twitter.com/shubhstwt"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter"> [![follow me on LinkedIn](https://img.shields.io/badge/follow%20me%20on-linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubhsharma19/)
-  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shubhstwt)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhsharma19) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code.shubh)
 <a href="https://ko-fi.com/shubhsharma19"><img src="https://img.shields.io/badge/buy%20me%20a-coffee-orange?style=flat&logo=ko-fi">
-  
-![Shubh's Stats](https://raw.githubusercontent.com/shubhsharma19/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Shubh's Stats](https://raw.githubusercontent.com/shubhsharma19/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
   
 <!-- My blogs -->
 ## 📕 My Latest Blogs
