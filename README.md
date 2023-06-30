@@ -25,9 +25,9 @@
 <!-- My blogs -->
 ## 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Working with Git](https://shubhsharma19.hashnode.dev/working-with-git)
 - [Git Foundations](https://shubhsharma19.hashnode.dev/git-foundations)
 - [Guide To Write Quality Tech Articles](https://shubhsharma19.hashnode.dev/guide-to-write-quality-tech-articles)
 - [My Tech Journey So Far &lpar;25% of 2023&rpar;](https://shubhsharma19.hashnode.dev/my-tech-journey-so-far)
 - [Linux File Structure Explained](https://shubhsharma19.hashnode.dev/linux-file-structure-explained)
-- [AI Tools to help you with daily work](https://shubhsharma19.hashnode.dev/ai-tools-to-help-you-with-daily-work)
 <!-- BLOG-POST-LIST:END -->
