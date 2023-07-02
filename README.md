@@ -1,5 +1,4 @@
-<!-- This is Header -->
-<h1>🙋‍♂️ Hey there! </h1>
+<h1> Hello 👋 </h1>
 
 <img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
