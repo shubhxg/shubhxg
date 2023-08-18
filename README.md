@@ -3,11 +3,12 @@
 <img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 <!-- Introduction -->
-- <b> I'm Shubh (he/him),</b> I am a BCA Graduate advocating for Open Source
+- <b> I'm Shubh,</b> I am a Self taught developer.
+- Advocating for Open Source 🥑
 - Learning <b>full-stack web development</b>. 
 - Learning and sharing my progress in public on twitter.</a>
 - Technical Writer/Blogger
-- Experienced in Graphic Designing and User Experience.
+- Experienced in Graphic Designing and UX/UI.
 - Continuously learning and engaging with the tech community.
 
 <!-- My Skills -->
