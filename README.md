@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 - <b> I'm Shubh,</b> I am a Self taught developer.
-- Advocating for Open Source 🥑
+- Advocating for Open Source Software and Good UX 🥑
 - Learning <b>full-stack web development</b>. 
 - Learning and sharing my progress in public on twitter.</a>
 - Technical Writer/Blogger
