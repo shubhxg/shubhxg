@@ -1,11 +1,11 @@
-<h1> Hello 👋 </h1>
+# Hello 👋 
 
 <img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 <!-- Introduction -->
 - <b> I'm Shubh,</b> I am a Self taught developer.
-- Advocating for Open Source Software and Good UX 🥑
-- Learning <b>full-stack web development</b>. 
+- Advocating for Open Source Software and UX 🥑
+- Learning **Front-end** Web Development
 - Learning and sharing my progress in public on twitter.</a>
 - Technical Writer/Blogger
 - Experienced in Graphic Designing and UX/UI.
