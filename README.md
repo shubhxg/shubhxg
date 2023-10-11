@@ -12,7 +12,7 @@
 - Continuously learning and engaging with the tech community.
 
 <!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,github,java,js,bash,git,githubactions,figma,linux,netlify,vim,vscode,xd&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,github,js,bash,git,githubactions,figma,netlify,vscode,xd&perline=8)](https://skillicons.dev)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bmvlrpn2vyu4gti4e6lkwrfu9&cover_image=true&theme=novatorem&show_offline=false&background_color=2e2e2e&interchange=true&bar_color=7e39fe&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
