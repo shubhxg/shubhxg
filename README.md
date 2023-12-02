@@ -7,7 +7,6 @@
 - Advocating for Open Source Software and Good UX Design 
 - Learning and sharing my progress in public on X(Formerly known as Twitter).</a>
 - Technical Writer/Blogger
-- Experienced in Graphic Designing and UX/UI.
 - Continuously learning and engaging with the tech community.
 
 <!-- My Skills -->
