@@ -1,9 +1,11 @@
-## Hello 👋 
+ ![enjoy the journey](https://github.com/shubhsharma19/shubhsharma19/assets/69891912/752fff9f-7e48-4df2-823f-3dc4beba39ef)
+
+## Hello 👋
 
 <img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 <!-- Introduction -->
-- **I'm Shubh**, I am a Self taught Frontend developer.
+I'm Shubh, a self-taught developer currently learning fullstack web development.
 - Advocating for Open Source Software and Good UX Design 
 - Learning and sharing my progress in public on X(Formerly known as Twitter).</a>
 - Technical Writer/Blogger
