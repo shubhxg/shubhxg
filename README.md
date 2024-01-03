@@ -23,9 +23,9 @@ I'm Shubh, a self-taught developer currently learning fullstack web development.
 <!-- My blogs -->
 ## 📕 My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Async programming in JavaScript](https://shubhsharma19.hashnode.dev/async-programming-in-js)
 - [CSS with superpowers? Working with Sass.](https://shubhsharma19.hashnode.dev/css-with-superpowers-sass)
 - [Discover Great Projects this Hacktoberfest with Scoutflo](https://shubhsharma19.hashnode.dev/discover-great-projects-this-hacktoberfest-with-scoutflo)
 - [Git Series: Working with Git &lpar;Part 2&rpar;](https://shubhsharma19.hashnode.dev/working-with-git)
 - [Git Series: Foundations &lpar;Part 1&rpar;](https://shubhsharma19.hashnode.dev/git-foundations)
+- [Guide To Write Quality Tech Articles](https://shubhsharma19.hashnode.dev/guide-to-write-quality-tech-articles)
 <!-- BLOG-POST-LIST:END -->
