@@ -11,8 +11,10 @@ I'm Shubh, a self-taught developer currently learning fullstack web development.
 - Technical Writer/Blogger
 - Continuously learning and engaging with the tech community.
 
+> NOTE: Checkout my VSCode theme "lazyvim" in extensions manager ✨
+
 <!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,bash,git,figma,netlify,vscode,xd&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,nodejs,express,bash,git,figma,netlify,vscode,xd&perline=7)](https://skillicons.dev)
 
 <!-- Socials stats -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shubhstwt)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhsharma19)
