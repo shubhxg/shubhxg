@@ -1,26 +1,16 @@
- ![enjoy the journey](https://github.com/shubhsharma19/shubhsharma19/assets/69891912/752fff9f-7e48-4df2-823f-3dc4beba39ef)
-
-## Hello 👋
+### Hi, I'm Shubh Sharma 👋
 
 <img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
 
 <!-- Introduction -->
-I'm Shubh, a self-taught developer currently learning fullstack web development.
-- Advocating for Open Source Software and Good UX Design 
-- Learning and sharing my progress in public on X(Formerly known as Twitter).</a>
-- Technical Writer/Blogger
-- Continuously learning and engaging with the tech community.
-
-> NOTE: Checkout my VSCode theme "lazyvim" in extensions manager ✨
+- 🖥 I'm a self-taught developer
+- 🚀 I'm learning Full-stack at the moment
+- 🐦 You will find me most active on twitter [@shubhstwt](https://twitter.com/shubhstwt)
+- ✨ I love to play with designs on instagram [@shubhsig](https;//instagram.com/shubhsig)
+- 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme) in extensions manager
 
 <!-- My Skills -->
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,html,css,sass,bootstrap,tailwind,bash,git,figma,netlify,vscode,xd&perline=7)](https://skillicons.dev)
-
-<!-- Socials stats -->
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shubhstwt)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhsharma19)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhsig)
-<a href="https://ko-fi.com/shubhsharma19"><img src="https://img.shields.io/badge/buy%20me%20a-coffee-orange?style=flat&logo=ko-fi">
-
   
 <!-- My blogs -->
 ## 📕 My Latest Blogs
