@@ -10,7 +10,7 @@
 - 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme) in extensions manager
 
 <!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,html,css,sass,bootstrap,tailwind,bash,git,figma,netlify,vscode,xd&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,html,css,sass,bootstrap,tailwind,bash,git,figma,netlify,postman,mongodb,postgres,vscode&perline=8)](https://skillicons.dev)
   
 <!-- My blogs -->
 ## 📕 My Latest Blogs
