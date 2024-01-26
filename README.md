@@ -14,7 +14,7 @@
 ## 📦 Technologies
 **Frontend**: `React` `HTML` `CSS` `Sass` `Bootstrap` `Tailwind`
 
-**Backend**: `Express` `NodeJS` `MongoDB` `Postgress` `Postman`
+**Backend**: `Express` `NodeJS` `MongoDB` `Postgres` `Postman`
 
 **Version Control**: `Git` `GitLab` `GitHub`
 
