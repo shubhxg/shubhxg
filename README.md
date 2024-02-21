@@ -10,7 +10,8 @@
 - ⚡ Funfacts about me: I love anime, coffee and learning new technologies.
 - 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme) in extensions manager
 
-<a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/v2/IXtXBLHpgeZHMzZobT3xh.png?type=wide&r=fts" width="50%" alt="Shubh Sharma's Dev Card"/></a>
+
+<a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="300" alt="Shubh Sharma's Daily dev card"/></a>
 
 <!-- My Skills -->
 ## 📦 Technologies
