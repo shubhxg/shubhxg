@@ -1,6 +1,6 @@
-### Hi, I'm Shubh 
+## Hi, I'm Shubh 👋
 
-<img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp">
+<!-- <img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp"> -->
 
 <!-- Introduction -->
 - 🖥 I'm a self-taught developer passionate about web development.
@@ -9,6 +9,8 @@
 - ✨ Short form programming content on instagram [@shubhsig](https;//instagram.com/shubhsig)
 - ⚡ Funfacts about me: I love anime, coffee and learning new technologies.
 - 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme) in extensions manager
+
+<a href="https://app.daily.dev/shubhsharma19"><img src="https://api.daily.dev/devcards/v2/IXtXBLHpgeZHMzZobT3xh.png?type=wide&r=fts" width="50%" alt="Shubh Sharma's Dev Card"/></a>
 
 <!-- My Skills -->
 ## 📦 Technologies
@@ -21,6 +23,7 @@
 **Others**: `Figma` `Canva` `Notion` `Bash` `Linux` `Netlify`
 
 ## 📕 My Latest Blogs
+
 <!-- BLOG-POST-LIST:START -->
 - [Async/Await in JavaScript with Easiest Explanation!](https://shubhsharma19.hashnode.dev/async-await-easiest-explanation)
 - [Promises in JavaScript for Beginners](https://shubhsharma19.hashnode.dev/promises-for-beginners)
