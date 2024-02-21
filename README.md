@@ -11,7 +11,7 @@
 - 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme) in extensions manager
 
 
-<a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="300" alt="Shubh Sharma's Daily dev card"/></a>
+<a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="25%" alt="Shubh Sharma's Daily dev card"/></a>
 
 <!-- My Skills -->
 ## 📦 Technologies
