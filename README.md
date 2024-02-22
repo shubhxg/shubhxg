@@ -10,9 +10,6 @@
 - ⚡ Funfacts about me: I love anime, coffee and learning new technologies.
 - 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme) in extensions manager
 
-
-<a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" align="right" width="200px" alt="Shubh Sharma's Daily dev card"/></a>
-
 <!-- My Skills -->
 ## 📦 Technologies
 **Frontend**: `React` `HTML` `CSS` `Sass` `Bootstrap` `Tailwind`
@@ -32,6 +29,8 @@
 - [CSS with superpowers? Working with Sass.](https://shubhsharma19.hashnode.dev/css-with-superpowers-sass)
 - [Discover Great Projects this Hacktoberfest with Scoutflo](https://shubhsharma19.hashnode.dev/discover-great-projects-this-hacktoberfest-with-scoutflo)
 <!-- BLOG-POST-LIST:END -->
+
+<a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="250px" alt="Shubh Sharma's Daily dev card"/></a>
 
 ## 📬 Contact 
 For a quick response, DM me on [twitter](twitter.com/shubhstwt)
