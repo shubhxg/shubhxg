@@ -23,7 +23,7 @@
 ## 📕 My Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await in JavaScript with Easiest Explanation!](https://shubhsharma19.hashnode.dev/async-await-easiest-explanation)
+- [Async/Await in JavaScript with Easiest Explanation!](https://shubhsharma19.hashnode.dev/async-await-explained)
 - [Promises in JavaScript for Beginners](https://shubhsharma19.hashnode.dev/promises-for-beginners)
 - [Async programming in JavaScript](https://shubhsharma19.hashnode.dev/async-programming-in-js)
 - [CSS with superpowers? Working with Sass.](https://shubhsharma19.hashnode.dev/css-with-superpowers-sass)
