@@ -30,7 +30,7 @@
 - [Discover Great Projects this Hacktoberfest with Scoutflo](https://shubhsharma19.hashnode.dev/discover-great-projects-this-hacktoberfest-with-scoutflo)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="250px" alt="Shubh Sharma's Daily dev card"/></a>
+<!-- <a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="250px" alt="Shubh Sharma's Daily dev card"/></a> -->
 
 ## 📬 Contact 
 For a quick response, DM me on [twitter](twitter.com/shubhstwt)
