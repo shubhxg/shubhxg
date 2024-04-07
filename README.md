@@ -23,11 +23,11 @@
 ## 📕 My Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Easiest Explanation of DOM, Even a 6 year old can understand](https://shubhsharma19.hashnode.dev/easiest-explanation-for-dom)
 - [Async/Await in JavaScript with Easiest Explanation!](https://shubhsharma19.hashnode.dev/async-await-explained)
 - [Promises in JavaScript for Beginners](https://shubhsharma19.hashnode.dev/promises-for-beginners)
 - [Async programming in JavaScript](https://shubhsharma19.hashnode.dev/async-programming-in-js)
 - [CSS with superpowers? Working with Sass.](https://shubhsharma19.hashnode.dev/css-with-superpowers-sass)
-- [Discover Great Projects this Hacktoberfest with Scoutflo](https://shubhsharma19.hashnode.dev/discover-great-projects-this-hacktoberfest-with-scoutflo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="250px" alt="Shubh Sharma's Daily dev card"/></a> -->
