@@ -23,11 +23,11 @@
 ## 📕 My Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Habits to Avoid Bugs related to Hoisting in your JavaScript Code](https://shubhsharma19.hashnode.dev/avoid-hoisting-related-bugs)
 - [DOM Manipulation: Accessing the Elements of the Webpage.](https://shubhsharma19.hashnode.dev/dom-accessing-the-elements)
 - [Easiest Explanation of DOM, Even a 6 year old can understand](https://shubhsharma19.hashnode.dev/easiest-explanation-for-dom)
 - [Async/Await in JavaScript with Easiest Explanation!](https://shubhsharma19.hashnode.dev/async-await-explained)
 - [Promises in JavaScript for Beginners](https://shubhsharma19.hashnode.dev/promises-for-beginners)
-- [Async programming in JavaScript](https://shubhsharma19.hashnode.dev/async-programming-in-js)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="250px" alt="Shubh Sharma's Daily dev card"/></a> -->
