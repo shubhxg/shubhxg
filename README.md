@@ -3,8 +3,8 @@
 <!-- <img width="30%" align='right' src="https://i.giphy.com/media/10IEUy0f5V3WLu/giphy.webp"> -->
 
 <!-- Introduction -->
-- 🖥 I'm a self-taught developer passionate about web development.
-- 🚀 I'm learning **Full-stack** at the moment.
+- 🖥 I'm a self-taught `developer` and `UI/UX designer` passionate about Web Development.
+- 🚀 I'm learning `Full-stack` at the moment.
 - 🐦 You will find me most active on twitter [@shubhstwt](https://twitter.com/shubhstwt)
 - ✨ Short form programming content on instagram [@shubhsig](https;//instagram.com/shubhsig)
 - ⚡ Funfacts about me: I love anime, coffee and learning new technologies.
@@ -14,11 +14,11 @@
 ## 📦 Technologies
 **Frontend**: `React` `HTML` `CSS` `Sass` `Bootstrap` `Tailwind`
 
-**Backend**: `Express` `NodeJS` `MongoDB` `Postgres` `Postman`
+**Design**: `Figma` `Canva`
 
-**Version Control**: `Git` `GitLab` `GitHub`
+**Backend**: `Express` `NodeJS` `MongoDB` `Firebase` `Postman`
 
-**Others**: `Figma` `Canva` `Notion` `Bash` `Linux` `Netlify`
+**Other Tools**: `Notion` `JIRA` `Confluence` `Netlify`
 
 ## 📕 My Latest Blogs
 
