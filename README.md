@@ -6,7 +6,7 @@
 - 🖥 I'm a self-taught `developer` and `UI/UX designer` passionate about Web Development.
 - 🚀 I'm learning `Full-stack` at the moment.
 - 🐦 You will find me most active on twitter [@shubhstwt](https://twitter.com/shubhstwt)
-- ✨ Short form programming content on instagram [@shubhsig](https;//instagram.com/shubhsig)
+- ✨ Short form programming content on instagram [@shubhsig](https://instagram.com/shubhsig)
 - ⚡ Funfacts about me: I love anime, coffee and learning new technologies.
 - 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme) in extensions manager
 
@@ -33,4 +33,4 @@
 <!-- <a href="https://app.daily.dev/shubhsharma19"><img src="./devcard.png" width="250px" alt="Shubh Sharma's Daily dev card"/></a> -->
 
 ## 📬 Contact 
-For a quick response, DM me on [twitter](twitter.com/shubhstwt)
+For a quick response, DM me on [twitter](https://twitter.com/shubhstwt)
