@@ -14,9 +14,9 @@
 ## 📦 Technologies
 **Frontend**: `React` `HTML` `CSS` `Sass` `Bootstrap` `Tailwind`
 
-**Design**: `Figma` `Canva`
+**Backend**: `Express` `NodeJS` `MongoDB` `Postman`
 
-**Backend**: `Express` `NodeJS` `MongoDB` `Firebase` `Postman`
+**Design**: `Figma`
 
 **Other Tools**: `Notion` `JIRA` `Confluence` `Netlify`
 
