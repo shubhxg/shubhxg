@@ -6,10 +6,6 @@
 - ✨ Design Related [Behance](https://www.behance.net/shubhsharma7)
 - 🌈 Checkout my VSCode theme [lazyvim](https://marketplace.visualstudio.com/items?itemName=ShubhSharma.lazyvim-theme)
 
-<!-- My Skills -->
-## Skills and Technologies
-`React` `JavaScript` `TypeScript` `Java` `HTML` `CSS` `Tailwind` `NodeJS` `Express` `MongoDB` `Postman` `Figma`
-
 ## Blogs
 
 <!-- BLOG-POST-LIST:START -->
